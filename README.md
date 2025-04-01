@@ -1,2 +1,2 @@
 # da292a_ordkedjor
-Labb i Datatrukturer och algoritmer DA292A
+Lab in Data structures and Algorithms DA292A
